@@ -33,7 +33,8 @@ Please contact https://github.com/OZ4Tech with any questions
 
 ## App Preview
 
-![App Preview]()
+![App Preview](![Password Generator](https://user-images.githubusercontent.com/103383531/186571170-c5a2d27b-2065-4faf-9444-00416cbdebfd.gif)
+)
 
 ## Deployed App Link
 

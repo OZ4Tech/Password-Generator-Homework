@@ -18,7 +18,7 @@ n/a
 ## Functionality
 Randomly generates a password that meets certain criteria in order to create a strong password that provides greater security.
 
-## Credits
+## Contributions
 n/a
 
 ## License
@@ -33,8 +33,8 @@ Please contact https://github.com/OZ4Tech with any questions
 
 ## App Preview
 
-![App Preview](![Password Generator](https://user-images.githubusercontent.com/103383531/186571170-c5a2d27b-2065-4faf-9444-00416cbdebfd.gif)
-)
+![Password Generator](https://user-images.githubusercontent.com/103383531/186571170-c5a2d27b-2065-4faf-9444-00416cbdebfd.gif)
+
 
 ## Deployed App Link
 
